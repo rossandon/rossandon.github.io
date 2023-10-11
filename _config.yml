@@ -1,0 +1,8 @@
+title: Ryan Ossandon's Blog
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://www.ryanossandon.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  rossandon
+
+# Build settings
+plugins:
+  - jekyll-feed
